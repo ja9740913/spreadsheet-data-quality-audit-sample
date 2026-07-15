@@ -1,6 +1,6 @@
 # Spreadsheet Data Quality Audit — Fictional Sample
 
-> Publication status: prepared locally for a future public GitHub repository. No remote repository or GitHub release has been created, and the preparation process performed no external write.
+> Publication status: published at https://github.com/ja9740913/spreadsheet-data-quality-audit-sample. The verified v1.0.0 release is available at https://github.com/ja9740913/spreadsheet-data-quality-audit-sample/releases/tag/v1.0.0.
 
 > [!IMPORTANT]
 > This repository is a fixed fictional evidence sample, not an open-source spreadsheet audit tool.

@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "language": "English",
     "release_date": "2026-07-15",
-    "publication_status": "prepared-local-only"
+    "publication_status": "published"
   },
   "repository": {
     "owner": "ja9740913",
@@ -42,13 +42,13 @@
     "executable_code_included": false
   },
   "external_state": {
-    "remote_repository_created": false,
-    "remote_repository_url": null,
-    "github_release_created": false,
-    "github_release_url": null,
-    "release_asset_url": null,
-    "files_uploaded": false,
-    "published_at": null,
+    "remote_repository_created": true,
+    "remote_repository_url": "https://github.com/ja9740913/spreadsheet-data-quality-audit-sample",
+    "github_release_created": true,
+    "github_release_url": "https://github.com/ja9740913/spreadsheet-data-quality-audit-sample/releases/tag/v1.0.0",
+    "release_asset_url": "https://github.com/ja9740913/spreadsheet-data-quality-audit-sample/releases/download/v1.0.0/Spreadsheet-Data-Quality-Audit-Sample-v1.0.0.zip",
+    "files_uploaded": true,
+    "published_at": "2026-07-15T14:08:16Z",
     "external_write_performed_by_preparation": false
   },
   "integrity": {
