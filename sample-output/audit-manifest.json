@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "state": "AUDIT_GENERATED_NOT_CLIENT_DELIVERED",
+  "source": {
+    "file_name": "fictional-orders-with-issues.xlsx",
+    "sha256": "2fe1992c3c6c4e96da370a2ec8c171cc57c46925d97a366df1d8b27198b46a9d",
+    "data_row_values_copied_to_outputs": false
+  },
+  "scope": {
+    "sheet": "Orders",
+    "header_row": 1,
+    "rows_scanned": 26,
+    "columns_scanned": 6,
+    "key_columns": [
+      "order_id"
+    ],
+    "required_columns": [
+      "order_id",
+      "customer_code",
+      "order_date",
+      "order_amount"
+    ],
+    "numeric_columns": [
+      "order_amount",
+      "paid_amount"
+    ],
+    "date_columns": [
+      "order_date"
+    ]
+  },
+  "summary": {
+    "state": "AUDIT_GENERATED_NOT_CLIENT_DELIVERED",
+    "source_name": "fictional-orders-with-issues.xlsx",
+    "sheet_name": "Orders",
+    "rows_scanned": 26,
+    "columns_scanned": 6,
+    "issue_categories": 16,
+    "high_issue_categories": 10,
+    "medium_issue_categories": 4,
+    "review_issue_categories": 2,
+    "duplicate_key_rows": 2,
+    "required_blank_rows": 5,
+    "invalid_numeric_rows": 2,
+    "invalid_date_rows": 1,
+    "data_row_values_in_output": 0,
+    "external_actions": 0
+  },
+  "outputs": [
+    {
+      "file": "audit-report.xlsx",
+      "sha256": "54cac5293d0fc8ba5d05ee00d39125efeabd588e6b43203ea3a6bfde12bb85b7"
+    },
+    {
+      "file": "audit-summary.md",
+      "sha256": "caa599a2f7327d0bf7727343f409a477fedd235ca28d3d5fed55cb06b122928b"
+    }
+  ],
+  "external_actions": 0
+}
