@@ -1,0 +1,29 @@
+Spreadsheet Data Quality Audit Fictional Sample License v1.0
+Copyright (c) 2026. All rights reserved except for the permissions below.
+
+You may download, inspect, copy, and internally adapt the fictional sample input,
+sample outputs, documentation, and images in this repository for personal,
+educational, or internal commercial evaluation.
+
+You may show excerpts in an internal review or demonstration if you:
+
+1. keep the disclosure that all records and results are fictional;
+2. do not present the sample as a completed customer engagement;
+3. do not imply that the paid audit engine or a commercial deployment license is
+   included; and
+4. keep this license and the original source attribution with redistributed
+   copies.
+
+You may not sell, sublicense, rebrand, or redistribute this repository or its
+release archive as a standalone product, template pack, client deliverable,
+training bundle, PLR, MRR, or stock asset. You may not use the sample to claim
+sales, revenue, certifications, compliance, or guaranteed results.
+
+This license grants no rights to the paid audit engine, launcher, commercial
+license tiers, trademarks, customer data, private files, or any material not
+included in this repository. Buying the paid product is governed by the
+storefront Version and versioned terms accepted at checkout.
+
+THE SAMPLE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IT IS A
+RULE-BASED PREFLIGHT EXAMPLE, NOT AN ACCOUNTING AUDIT, LEGAL OR COMPLIANCE
+REVIEW, REPAIR SERVICE, OR GUARANTEE THAT EVERY ERROR WILL BE DETECTED.

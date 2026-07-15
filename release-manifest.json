@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "sample": {
+    "name": "Spreadsheet Data Quality Audit Fictional Sample",
+    "version": "1.0.0",
+    "language": "English",
+    "release_date": "2026-07-15",
+    "publication_status": "prepared-local-only"
+  },
+  "repository": {
+    "owner": "ja9740913",
+    "name": "spreadsheet-data-quality-audit-sample",
+    "visibility": "public",
+    "description": "Complete fictional XLSX input with redacted Excel, Markdown, and JSON data-quality audit outputs. Sample only—no audit engine, launcher, customer data, or commercial license.",
+    "topics": [
+      "data-quality",
+      "spreadsheet",
+      "excel",
+      "xlsx",
+      "data-validation",
+      "sample-data"
+    ]
+  },
+  "links": {
+    "paid_sites_product_url": "https://payment-flow-studio-tw.masstech.chatgpt.site/en/tools/spreadsheet-data-quality-audit-toolkit?source=github_e21_sample",
+    "paid_sites_release_url": "https://payment-flow-studio-tw.masstech.chatgpt.site/en/tools/spreadsheet-data-quality-audit-toolkit?source=github_e21_sample_release",
+    "paid_checkout_url": "https://toolcraftstudio.gumroad.com/l/spreadsheet-data-quality-audit-toolkit",
+    "versioned_terms_url": "https://payment-flow-studio-tw.masstech.chatgpt.site/en/terms/spreadsheet-data-quality-audit-toolkit-v1"
+  },
+  "sample_scope": {
+    "fictional_data_only": true,
+    "rows": 26,
+    "columns": 6,
+    "finding_records": 16,
+    "distinct_issue_codes": 10,
+    "issue_categories": 16,
+    "issue_categories_field_status": "legacy-compatible finding-record count, not distinct-code count",
+    "data_row_values_copied_to_outputs": false,
+    "paid_engine_included": false,
+    "powershell_launcher_included": false,
+    "commercial_license_included": false,
+    "executable_code_included": false
+  },
+  "external_state": {
+    "remote_repository_created": false,
+    "remote_repository_url": null,
+    "github_release_created": false,
+    "github_release_url": null,
+    "release_asset_url": null,
+    "files_uploaded": false,
+    "published_at": null,
+    "external_write_performed_by_preparation": false
+  },
+  "integrity": {
+    "algorithm": "SHA-256",
+    "checksum_file": "SHA256SUMS.txt",
+    "release_archive": "release/Spreadsheet-Data-Quality-Audit-Sample-v1.0.0.zip",
+    "release_archive_members": 7,
+    "deterministic_timestamp": "2026-07-15T00:00:00Z"
+  },
+  "assets": [
+    {
+      "path": "release/Spreadsheet-Data-Quality-Audit-Sample-v1.0.0.zip",
+      "role": "complete-fictional-sample-release",
+      "public": true,
+      "bytes": 21515,
+      "sha256": "bdfef9ac13ac5efff2cdfbdf83126103330bf3067d77cf7333820915ec3e3c6f"
+    },
+    {
+      "path": "assets/cover-1200x1200.png",
+      "role": "repository-cover",
+      "public": true,
+      "bytes": 54740,
+      "sha256": "15bc3498d0586ad2bcff4644f2539da26b4d33b6dffd4f01bd7f1fc760ae8396",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "assets/report-preview-1200x1200.png",
+      "role": "fictional-report-preview",
+      "public": true,
+      "bytes": 48738,
+      "sha256": "41647b0f22ba2174016e03b552f6a728d68d390d2713a578661033979041d5b4",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "sample/fictional-orders-with-issues.xlsx",
+      "role": "fictional-source-workbook",
+      "public": true,
+      "bytes": 6943,
+      "sha256": "2fe1992c3c6c4e96da370a2ec8c171cc57c46925d97a366df1d8b27198b46a9d"
+    },
+    {
+      "path": "sample-output/audit-report.xlsx",
+      "role": "redacted-fictional-excel-report",
+      "public": true,
+      "bytes": 11880,
+      "sha256": "54cac5293d0fc8ba5d05ee00d39125efeabd588e6b43203ea3a6bfde12bb85b7"
+    },
+    {
+      "path": "sample-output/audit-summary.md",
+      "role": "redacted-fictional-markdown-summary",
+      "public": true,
+      "bytes": 1642,
+      "sha256": "caa599a2f7327d0bf7727343f409a477fedd235ca28d3d5fed55cb06b122928b"
+    },
+    {
+      "path": "sample-output/audit-manifest.json",
+      "role": "fictional-run-evidence-manifest",
+      "public": true,
+      "bytes": 1493,
+      "sha256": "cbc60aa382b93722fd0023ef32eaf885c4bcab87d8b2a6a0f52ade2f80fc172b"
+    }
+  ],
+  "excluded_content": [
+    "paid audit_toolkit.py engine",
+    "Run-Audit.ps1 launcher",
+    "paid buyer ZIP archives",
+    "commercial license rights",
+    "customer or employer data",
+    "credentials, passwords, tokens, one-time codes, receipts, or payout records",
+    "private operating, authorization, revenue, or identity documents"
+  ]
+}
